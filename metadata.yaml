@@ -1,0 +1,34 @@
+_repo: The-roving-critic_75524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Doren, Carl
+    aliases:
+    - Van Doren, Carl Clinton
+    - Doren, Carl Van
+    birthdate: 1885
+    deathdate: 1950
+    gutenberg_agent_id: '4428'
+    url: http://www.gutenberg.org/2009/agents/4428
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Doren
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75524'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.226698
+pgterms:marc905: 20211217000555vandoren
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The roving critic
+url: http://www.gutenberg.org/ebooks/75524
