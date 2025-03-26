@@ -1,5 +1,8 @@
 _repo: The-roving-critic_75524
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75524-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Doren, Carl
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4428
     wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Doren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75524#The-roving-critic
 gutenberg_issued: '2025-03-04'
 gutenberg_type: Text
 identifiers:
